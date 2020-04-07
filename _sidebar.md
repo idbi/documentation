@@ -8,4 +8,7 @@
     * [LARAVEL](/backend/standards/laravel/)
       * [MODELS](/backend/standards/laravel/models/)
         * [RELATIONSHIPS](/backend/standards/laravel/models/relationships.md)
+    * [GIT](/backend/standards/git/)
+      * [BRANCHES](/backend/standards/git/branches.md)
+      * [COMMITS](/backend/standards/git/commits.md)
 * [FRONTEND](/frontend/)
