@@ -14,4 +14,3 @@ reasonable scope. That scope may be vendor-level, package-level, class-level,
 or method-level.
 
 Here we will use `$camelCase` when declaring and using properties.
-
