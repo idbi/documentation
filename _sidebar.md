@@ -1,3 +1,4 @@
-* [Home](/)
-* [Backend](/backend)
-* [Frontend](/frontend)
+* [HOME](/)
+* [BACKEND](/backend)
+  * [STANDARDS](backend/standards/)
+* [FRONTEND](/frontend)
