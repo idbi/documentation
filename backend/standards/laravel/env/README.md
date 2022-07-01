@@ -58,4 +58,4 @@ Es posible hacer referencias a otras variables.
 
 ## Adición de nuevas variables
 
-Cuando se agregue una nueva variable de entorno, ésta deberá ser puesta al final del archivo `.env.local` y `.env.production`.
+Cuando se agregue una nueva variable de entorno, ésta deberá ser puesta al final del archivo `.env.local.example` y `.env.production.example`.
