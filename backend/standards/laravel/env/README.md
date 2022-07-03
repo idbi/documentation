@@ -45,12 +45,8 @@ Usar **comillas dobles** para los valores de las variables de entorno siempre qu
 
 ```text
 VARIABLE_WITH_BLANK_SPACES="IDBI growth up"
-REFERENCE_TO="$VARIABLE_WITH_BLANK_SPACES all years"
+REFERENCE_TO_ANOTHER_VARIABLE="$VARIABLE_WITH_BLANK_SPACES all years"
 ```
-
-### Referencias a otras variables
-
-Es posible hacer referencias a otras variables.
 
 ### Tokens y Keys
 
