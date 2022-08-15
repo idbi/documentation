@@ -1,4 +1,7 @@
 * [HOME](/)
+* [STANDARDS](/standards/)
+  * [GIT](/standards/git/)
+    * [COMMITS](/standards/git/commits.md)
 * [BACKEND](/backend/)
   * [STANDARDS](/backend/standards/)
     * [PHP](/backend/standards/php/)
