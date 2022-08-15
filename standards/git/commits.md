@@ -30,9 +30,9 @@ Debe considerarse:
 ### Resumen
 
 ```
-<prefijo>: [POS-#] <mensaje>
+<prefijo>: <mensaje>
 
-<descripción?>
+[POS-#?] <descripción?>
 ```
 
 **Nota:** En el `POS-#`, el `#` indica el número de la _card_ asociada.
