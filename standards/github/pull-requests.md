@@ -52,3 +52,26 @@ En esta sección debe ir capturas, archivos, enlaces, etc.
 
 ...
 ```
+
+#### Etiquetas
+
+Agrega más contexto a la solicitud de cambio.
+
+| Nombre | Uso |
+| - | - |
+| `bug` | Para las cards del tablero de _bugs_ |
+| `performance` | Agrega mejoras en el rendimiento |
+| `security` | Agrega funciones de seguridad |
+| `enhancement` | Para nuevas tareas (funcionalidades o HU) |
+| `quick win` | Para _quick wins_ |
+| `help wanted` | Para PR que requieren de una revisión inmediata |
+| `pending` | Para el reviewer cuando solicita cambios al _reviewer_  |
+| `question` | Cuando se haya solicitado información en la PR, tanto del _reviewer_ como del _requester_ |
+| `work in progress` | Cuando se suba una PR y se siga trabajando en ella |
+| `ready for review` | Al momento de solicitar una review |
+| `ready for merge` | Al momento de solicitar una review y el _requester_ haga saber que apenas se apruebe, se deberá hacer _merge_ |
+| `duplicate` | Por si la PR cerrada ya existe |
+| `invalid` | Para PR cerradas inválidas porque no están bien  |
+| `wontfix` | Para PR cerradas porque no solucionan el problema |
+| `stale` | Para PR cerradas que se realizaron y se cerraron porque nunca se llegó a hacer merge y pasó demasiado tiempo |
+| `sync` | La PR sincroniza alguna rama (por ejemplo de master con production, o viceversa)
